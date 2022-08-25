@@ -1,16 +1,25 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
-```typescript
- {
-   "name":    "Duvan Jamid Vargas",
-   "role":    "FullStack Dev | Tecnical Lead",
-   "data": 
-     { 
-      "Linkedin"  : "https://www.linkedin.com/in/duvanjamid", 
-      "Resume"    : "https://duvanjamid.github.io/",
-      "IG"        : "https://www.instagram.com/duvanjamid"
-     }
- }
+
+
+
+
+```scss
+
+#duvanjamid {
+  
+  $name: 'Duvan Jamid Vargas';
+  $role: "FullStack Dev | Tecnical Lead";
+  $country: "Colombia";
+
+  .socialmedia {
+
+    $Linkedin: "https://www.linkedin.com/in/duvanjamid";
+    $Resume: "https://duvanjamid.github.io/";
+    $IG: "https://www.instagram.com/duvanjamid";
+    
+  }
+}
 ```
 
 <h3>
