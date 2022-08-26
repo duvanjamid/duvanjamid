@@ -4,18 +4,32 @@
 
 
 
-```shell
-     888                                             d8b                        d8b      888 
-     888                                             Y8P                        Y8P      888 
-     888                                                                                 888 
- .d88888 888  888 888  888  8888b.  88888b.         8888  8888b.  88888b.d88b.  888  .d88888 
-d88" 888 888  888 888  888     "88b 888 "88b        "888     "88b 888 "888 "88b 888 d88" 888 
-888  888 888  888 Y88  88P .d888888 888  888         888 .d888888 888  888  888 888 888  888 
-Y88b 888 Y88b 888  Y8bd8P  888  888 888  888         888 888  888 888  888  888 888 Y88b 888 
- "Y88888  "Y88888   Y88P   "Y888888 888  888         888 "Y888888 888  888  888 888  "Y88888 
-                                                     888                                     
-                                                    d88P                                     
-                                                  888P"                                      
+```console
+
+duvanjamid@dev:~$ host --info                                                                                    
+duvanjamid@dev:~$ '    ,--.                                           ,--.                     ,--.    ,--. '
+duvanjamid@dev:~$ '  ,-|  | ,--.,--. ,--.  ,--.  ,--,--. ,--,--,      `--'  ,--,--. ,--,--,--. `--'  ,-|  | ' 
+duvanjamid@dev:~$ ' ' .-. | |  ||  |  \  `'  /  ' ,-.  | |      \     ,--. ' ,-.  | |        | ,--. ' .-. | ' 
+duvanjamid@dev:~$ ' \ `-' | '  ''  '   \    /   \ '-'  | |  ||  |     |  | \ '-'  | |  |  |  | |  | \ `-' | ' 
+duvanjamid@dev:~$ '  `---'   `----'     `--'     `--`--' `--''--'   .-'  /  `--`--' `--`--`--' `--'  `---'  ' 
+duvanjamid@dev:~$ '                                                '---'                                    '
+duvanjamid@dev:~$ 'loading ---------------------------------------------------------------------------- 100%'
+duvanjamid@dev:~$ 
+
+| Name | Duvan Jamid Vargas            |
+| ---- | ----------------------------- |
+| Role | FullStack Dev | Tecnical Lead |
+
+duvanjamid@dev:~$ host --info --social   
+
+| Socialmedia |                                          |
+| ----------- | ---------------------------------------- |
+| Linkedin    | https://www.linkedin.com/in/duvanjamid   |
+| Resume      | https://duvanjamid.github.io             |
+| IG          | https://www.instagram.com/duvanjamid     |
+
+duvanjamid@dev:~$ | 
+                                                                                             
                                                                                              
   ```                                                                                           
    ```shell                                              
