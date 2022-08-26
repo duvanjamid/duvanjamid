@@ -6,15 +6,15 @@
 
 ```console
 
-duvanjamid@dev:~$ host --info                                                                                    
-duvanjamid@dev:~$ '    ,--.                                           ,--.                     ,--.    ,--. '
-duvanjamid@dev:~$ '  ,-|  | ,--.,--. ,--.  ,--.  ,--,--. ,--,--,      `--'  ,--,--. ,--,--,--. `--'  ,-|  | ' 
-duvanjamid@dev:~$ ' ' .-. | |  ||  |  \  `'  /  ' ,-.  | |      \     ,--. ' ,-.  | |        | ,--. ' .-. | ' 
-duvanjamid@dev:~$ ' \ `-' | '  ''  '   \    /   \ '-'  | |  ||  |     |  | \ '-'  | |  |  |  | |  | \ `-' | ' 
-duvanjamid@dev:~$ '  `---'   `----'     `--'     `--`--' `--''--'   .-'  /  `--`--' `--`--`--' `--'  `---'  ' 
-duvanjamid@dev:~$ '                                                '---'                                    '
-duvanjamid@dev:~$ 'loading ---------------------------------------------------------------------------- 100%'
-duvanjamid@dev:~$ 
+duvanjamid@dev:~$ host --info    
+loading ------------------------------------------------------------------------------- 0%'
+'    ,--.                                           ,--.                     ,--.    ,--. '
+'  ,-|  | ,--.,--. ,--.  ,--.  ,--,--. ,--,--,      `--'  ,--,--. ,--,--,--. `--'  ,-|  | ' 
+' ' .-. | |  ||  |  \  `'  /  ' ,-.  | |      \     ,--. ' ,-.  | |        | ,--. ' .-. | ' 
+' \ `-' | '  ''  '   \    /   \ '-'  | |  ||  |     |  | \ '-'  | |  |  |  | |  | \ `-' | ' 
+'  `---'   `----'     `--'     `--`--' `--''--'   .-'  /  `--`--' `--`--`--' `--'  `---'  ' 
+'                                                '---'                                    '
+loading ---------------------------------------------------------------------------- 100%'
 
 | Name | Duvan Jamid Vargas            |
 | ---- | ----------------------------- |
@@ -29,26 +29,8 @@ duvanjamid@dev:~$ host --info --social
 | IG          | https://www.instagram.com/duvanjamid     |
 
 duvanjamid@dev:~$ | 
-                                                                                             
-                                                                                             
+                                                                                         
   ```                                                                                           
-   ```shell                                              
-
-duvanjamid@dev {
-  
-  $name: 'Duvan Jamid Vargas';
-  $role: "FullStack Dev | Tecnical Lead";
-  $country: "Colombia";
-
-  .socialmedia {
-
-    $Linkedin: "https://www.linkedin.com/in/duvanjamid";
-    $Resume: "https://duvanjamid.github.io/";
-    $IG: "https://www.instagram.com/duvanjamid";
-    
-  }
-}
-```
 
 <h3>
   🚀 Principal Stack
