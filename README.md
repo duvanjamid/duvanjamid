@@ -1,9 +1,3 @@
-<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
-
-
-
-
-
 ```console
 
 duvanjamid@dev:~$ host --info    
@@ -72,7 +66,7 @@ duvanjamid@dev:~$ |
 
 
 ### <a href="https://www.instagram.com/duvanjamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duvanjamid" height="30" width="40" /></a>  <a href="https://www.instagram.com/duvanjamid" target="_blank">@duvanjamid</a>
-My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology. <a href="https://www.instagram.com/veritechie" target="_blank">We are almost already 45K!</a>
+My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology. 
 
 ### 🌱 I'm currently learning... / Last Projects
 
@@ -81,20 +75,8 @@ My objective is to be able to share and motivate people who feel a strong concer
 
 
 
-### 🗣 Speaker
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg"/>](https://www.instagram.com/p/CcBYOECjp6s/)
-**** \
 
-Talk to inspire future generations about great opportunities
-that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/)
 
----
-
----
-
-### Sometimes I write
-
-<a href="https://dev.to/veritechie">  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 ### Github Stats:
 
