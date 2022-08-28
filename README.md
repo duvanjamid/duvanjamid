@@ -107,7 +107,7 @@ that offers the figure of women in technology and Esports sectors [Click to see]
 
 
 #### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-duvanjamid.vercel.app/api" alt="spotify playing" width="350" />]()
+[<img src="https://spotify-now-playing-duvanjamid.vercel.app/api/mod" alt="spotify playing" width="350" />]()
 
 <!--
 **duvanjamid/duvanjamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
