@@ -55,6 +55,9 @@ duvanjamid@dev:~$ |
    <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+
+---
+
 <h4>Tools & Technologies</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -64,9 +67,6 @@ duvanjamid@dev:~$ |
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
-
-### <a href="https://www.instagram.com/duvanjamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duvanjamid" height="30" width="40" /></a>  <a href="https://www.instagram.com/duvanjamid" target="_blank">@duvanjamid</a>
-
 ### 🤯 I'm currently learning... / Last Projects
 
 - AWS Architect
@@ -74,13 +74,17 @@ duvanjamid@dev:~$ |
 
 
 
-
-
-
-
-
 #### 🎧 I love music! | Spotify Playing
+
+
+
 [<img src="https://spotify-now-playing-duvanjamid.vercel.app/api/mod" alt="spotify playing" width="350" />]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duvanjamid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duvanjamid&show_icons=true&theme=radical)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=duvanjamid&theme=bear&background=DD272700&dates=00C4FF&border=E03C8A)](https://git.io/streak-stats)
 
 <!--
 **duvanjamid/duvanjamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
